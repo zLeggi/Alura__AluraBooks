@@ -20,7 +20,7 @@ Projeto desenvolvido durante o curso de Mobile first da Alura.
 
 * Javascript (swipe)
 
-### Link para o projeto: [https://pessoal-cronicas-de-oires-q3jfvzpa7-zleggi.vercel.app/](https://alura-alura-books-fawn.vercel.app/)
+### Link para o projeto: https://vercel.com/zleggi/alura-alura-books
 
 ## Feito por:
 ### Leandro Almeida ( zLeggi)
