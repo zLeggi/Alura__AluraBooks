@@ -5,7 +5,7 @@
 Projeto desenvolvido durante o curso de Mobile first da Alura.
 
 
-![127 0 0 1_5501_](https://github.com/zLeggi/Pessoal__Cronicas-de-Oires/assets/132202776/f522ec0f-bacc-4da6-a8cf-bde03c225bdf)
+![image](https://github.com/zLeggi/Alura__AluraBooks/assets/132202776/36516356-175d-4d28-a6e8-97cb4ca7a716)
 
 
 ### Ferramentas utilizadas:
@@ -18,7 +18,9 @@ Projeto desenvolvido durante o curso de Mobile first da Alura.
 
 * Flex-box
 
-### Link para o projeto: https://pessoal-cronicas-de-oires-q3jfvzpa7-zleggi.vercel.app/
+* Javascript (swipe)
+
+### Link para o projeto: [https://pessoal-cronicas-de-oires-q3jfvzpa7-zleggi.vercel.app/](https://alura-alura-books-fawn.vercel.app/)
 
 ## Feito por:
 ### Leandro Almeida ( zLeggi)
